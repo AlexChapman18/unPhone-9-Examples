@@ -1,0 +1,19 @@
+C:\Users\agent\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.9011.31\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/agent/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/ninja/win/x64/ninja.exe -G Ninja -S "C:\Users\agent\Documents\Git Repositories\unPhone-9-Examples\Examples\Touchscreen" -B "C:\Users\agent\Documents\Git Repositories\unPhone-9-Examples\Examples\Touchscreen\cmake-build-debug"
+-- The CXX compiler identification is GNU 11.2.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Users/agent/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+CMake Error at CMakeLists.txt:13 (add_executable):
+  Cannot find source file:
+
+    Screen.ino
+
+
+CMake Error at CMakeLists.txt:13 (add_executable):
+  No SOURCES given to target: Screen
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
